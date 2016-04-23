@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[terrihansonmead]]></title>
+        <description><![CDATA[terrihansonmead]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 02:09:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[World Changers and Rule Breakers]]></title>
+            <description><![CDATA[<p>I recently received an invitation to attend what I am hoping to be a life changing event later this month. I will be joining 29 other innovators and creators from around the world on Necker Island (yes, Richard Branson's private island). I am looking at this adventure as an opportunity to break down some of my personal barriers so that I can begin to visualize my next steps. I really need to just get out of my own way. My plan is that by removing myself from my normal day-to-day locale, and by surrounding myself with like-minded people looking to do big things, that I will be able to get there. </p>]]></description>
+            <link>undefinedworld-changers-and-rule-breakers/index.html</link>
+            <guid isPermaLink="false">0aca572a-0efe-4c95-859c-60f0a7f2c06d</guid>
+            <pubDate>Sat, 23 Apr 2016 02:09:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
