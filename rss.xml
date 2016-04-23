@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[terrihansonmead]]></title>
         <description><![CDATA[terrihansonmead]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/terrihansonmead/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 02:09:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 02:12:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/terrihansonmead/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Pitching to Angels]]></title>
+            <description><![CDATA[<p>I have the pleasure of being an angel investor with Sand Hill Angels and one of the events that we do every month involves having founders come and present their pitches while we provide feedback on how to make the five-minute pitches more effective. To say this is fun is an understatement but it is also frustrating in that many founders fail to provide the basic information that I, as an investor, am looking for.</p>]]></description>
+            <link>https://thegrid.ai/terrihansonmead/pitching-to-angels/index.html</link>
+            <guid isPermaLink="false">69ab8c06-3103-40fd-ae4d-25be4018fc96</guid>
+            <pubDate>Sat, 23 Apr 2016 02:12:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[World Changers and Rule Breakers]]></title>
             <description><![CDATA[<p>I recently received an invitation to attend what I am hoping to be a life changing event later this month. I will be joining 29 other innovators and creators from around the world on Necker Island (yes, Richard Branson's private island). I am looking at this adventure as an opportunity to break down some of my personal barriers so that I can begin to visualize my next steps. I really need to just get out of my own way. My plan is that by removing myself from my normal day-to-day locale, and by surrounding myself with like-minded people looking to do big things, that I will be able to get there. </p>]]></description>
-            <link>undefinedworld-changers-and-rule-breakers/index.html</link>
+            <link>https://thegrid.ai/terrihansonmead/world-changers-and-rule-breakers/index.html</link>
             <guid isPermaLink="false">0aca572a-0efe-4c95-859c-60f0a7f2c06d</guid>
             <pubDate>Sat, 23 Apr 2016 02:09:00 GMT</pubDate>
         </item>
